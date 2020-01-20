@@ -262,8 +262,8 @@ public class MerkleTree {
 			}
 			i++;
 		}
-		int corruptNodesSýze = corruptNodes.size();
-		for(int j=0;j<corruptNodesSýze;j++) {
+		int corruptNodesSÃ½ze = corruptNodes.size();
+		for(int j=0;j<corruptNodesSÃ½ze;j++) {
 			
 			Stack<String> corruptPath = new Stack<String>();
 			
