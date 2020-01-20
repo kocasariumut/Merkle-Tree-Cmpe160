@@ -61,8 +61,8 @@ public class Node {
 	public void setInformation(String information) {
 		this.information = information;
 	}
-	public void setIsLeaf(boolean ýsLeaf) {
-		this.isLeaf=ýsLeaf;
+	public void setIsLeaf(boolean Ã½sLeaf) {
+		this.isLeaf=Ã½sLeaf;
 	}
 	public void setData(String hash) {
 		this.data=hash;
